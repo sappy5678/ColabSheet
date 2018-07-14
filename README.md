@@ -1,6 +1,8 @@
 # ColabSheet
 Colab 小抄
 
+## 參考來源
+[Useful snippets for Google Colaboratory. ](https://medium.com/machine-learning-world/useful-snippets-for-google-colaboratory-free-gpu-included-d976d6b3e6de)
 
 ## 掛載 Google Drive
 ```shell
